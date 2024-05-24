@@ -1,4 +1,12 @@
-## Hi there 👋
+## boas vindas ao eu perfil
+
+** sou aluno.MATHEUS,**AQUI ESTÃO **ALGUNS** DO MEUS PROJETO
+
+## MEU CONTATO: 
+
+**THEU_SILVA
+
+
 
 <!--
 **matheusnicolai/matheusnicolai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
